@@ -1,4 +1,4 @@
-# CEIS236-SQL-Database
+# CEIS236-Database-System and Programming 
 Modern daily life is almost inconceivable without databases. Online transactions, course catalogs, search
 engines, etc all use databases. We depend on databases for many aspects of our lives. It is important that these
 databases are designed and implemented correctly. With the increase of the Internet of Things and growth of
