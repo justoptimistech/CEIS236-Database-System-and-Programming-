@@ -6,7 +6,8 @@ online transactions, it is easy to see that database design, implementation, and
 employment opportunities. This project walks through the process of design, development, and implementation
 of a relational database.
 
-Project Scenario:
+Final Project Scenario:
+
 Global Computer Solutions (GCS) is an information technology consulting company with many offices
 throughout the United States. The company’s success is based on its ability to maximize its resources —
 that is, its ability to match highly skilled employees with projects according to region. To better manage
