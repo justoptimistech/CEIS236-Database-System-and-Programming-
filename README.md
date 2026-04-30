@@ -1,27 +1,18 @@
-# CEIS236 Database System and Programming 
-Modern daily life is almost inconceivable without databases. Online transactions, course catalogs, search
-engines, etc all use databases. We depend on databases for many aspects of our lives. It is important that these
-databases are designed and implemented correctly. With the increase of the Internet of Things and growth of
-online transactions, it is easy to see that database design, implementation, and management has many
-employment opportunities. This project walks through the process of design, development, and implementation
-of a relational database.
+# GCS Relational Database Management System
 
-Final Project Scenario:
+## Overview
+This project is a relational database system designed for an IT consulting company. It organizes customers, employees, skills, projects, and invoices.
 
-Global Computer Solutions (GCS) is an information technology consulting company with many offices
-throughout the United States. The company’s success is based on its ability to maximize its resources —
-that is, its ability to match highly skilled employees with projects according to region. To better manage
-its projects, GCS has contacted you to design a database so GCS managers can keep track of their
-customers, employees, projects, project schedules, assignments, and invoices. In the first phase of the
-development, GCS wants you to create a database that tracks their customers and employees by region.
-In addition, the database needs to track the employees’ skills and payrate by skill.
-The GCS database must support the first phase of GCS’s operations and information requirements. A
-basic description of the main entities follows for this first phase:
-- The employees of GCS must have an employee ID, a last name, a first name, a region, and a date of
-hire recorded in the system.
-- Valid regions are as follows: Northwest, Southwest, Northeast, Southeast, and Central.
-- Each employee can have many skills, and many employees have the same skill.
-- Each skill has a skill ID, description, and rate of pay. Valid skills are as follows: Data Entry I, Database
-Admin I, Database Admin II, Database Architect, Java I, Java II, Python I, Python II.
-- GCS has many customers. Each customer has a customer ID, name, phone number, and region.
+## Technologies
+- SQL
+- PL/pgSQL
+- MySQL Workbench
 
+## Key Features
+- Designed relational database tables
+- Created relationships between entities
+- Wrote SQL queries for data retrieval
+- Built ERD for structure
+
+## Purpose
+This project demonstrates my ability to design and work with structured data, which is relevant for IT support and data-related roles.
